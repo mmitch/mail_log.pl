@@ -5,7 +5,7 @@
 #   Reads a mail (with headers) from stdin and prints a
 #   line in common or combined log format to stdout.
 #
-#   Copyright (C) 2000  Christian Garbs <mitch@uni.de>
+#   Copyright (C) 2000  Christian Garbs <mitch@cgarbs.de>
 #
 #   This program is free software; you can redistribute it and/or modify
 #   it under the terms of the GNU General Public License as published by

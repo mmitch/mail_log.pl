@@ -6,7 +6,7 @@
 #   It reads a log in common or combined log file format and converts the
 #   first field to lower case characters.
 #
-#   Copyright (C) 2000  Christian Garbs <mitch@uni.de>
+#   Copyright (C) 2000  Christian Garbs <mitch@cgarbs.de>
 #
 #   This program is free software; you can redistribute it and/or modify
 #   it under the terms of the GNU General Public License as published by
