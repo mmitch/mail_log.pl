@@ -210,6 +210,7 @@ sort_log.pl < log.unsorted 2>> error.log | my_log_analyzer_program
 
 * New versions of mail_log.pl
   http://www.cgarbs.de/mail_log.en.html
+  http://www.h.shuttle.de/mitch/mail_log.en.html
 
 * The Perl module Date::Manip
   http://www.cise.ufl.edu/~sbeck/
