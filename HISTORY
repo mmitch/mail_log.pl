@@ -1,0 +1,30 @@
+mail_log  v0.0.5  2000-07-29
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- sort_log_fast.pl is about 4 times faster than sort_log.pl (using the
+  Perl module Date::Manip)
+- added user_agent_no_space.pl to replace spaces in the User Agent
+  field with underscores
+
+
+mail_log  v0.0.4  2000-06-17
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- the X-Mailer: line (user-agent) is now scanned non case-
+  sensitive (X-mailer: will be recognized too)
+
+
+mail_log  v0.0.3  2000-04-24
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- added error detections to mail_log.pl and sort_log.pl
+
+
+mail_log  v0.0.2  2000-04-22
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- improved the procmail rules in the README file
+  (use of a lock file and waiting for the pipe to finish)
+- improved the recognition of Re:plies
+- added lowercase_log.pl to change the From: fields to lowercase
+
+
+mail_log  v0.0.1  2000-04-21
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- initial release
